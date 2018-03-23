@@ -1,0 +1,6 @@
+C:\Users\jamie\Desktop\CahnJamieWkThreeExerciseTwo\CahnJamieWkThreeExerciseTwo\obj\Debug\CahnJamieWkThreeExerciseTwo.csprojResolveAssemblyReference.cache
+C:\Users\jamie\Desktop\CahnJamieWkThreeExerciseTwo\CahnJamieWkThreeExerciseTwo\bin\Debug\CahnJamieWkThreeExerciseTwo.exe.config
+C:\Users\jamie\Desktop\CahnJamieWkThreeExerciseTwo\CahnJamieWkThreeExerciseTwo\bin\Debug\CahnJamieWkThreeExerciseTwo.exe
+C:\Users\jamie\Desktop\CahnJamieWkThreeExerciseTwo\CahnJamieWkThreeExerciseTwo\bin\Debug\CahnJamieWkThreeExerciseTwo.pdb
+C:\Users\jamie\Desktop\CahnJamieWkThreeExerciseTwo\CahnJamieWkThreeExerciseTwo\obj\Debug\CahnJamieWkThreeExerciseTwo.exe
+C:\Users\jamie\Desktop\CahnJamieWkThreeExerciseTwo\CahnJamieWkThreeExerciseTwo\obj\Debug\CahnJamieWkThreeExerciseTwo.pdb
